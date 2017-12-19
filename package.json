@@ -1,0 +1,24 @@
+{
+  "name": "sortable-list",
+  "version": "1.0.0",
+  "description": "An extension of the Framer ScrollComponent which makes all children sortable",
+  "main": "sortableList.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russcampbell/sortable-list.git"
+  },
+  "keywords": [
+    "framer",
+    "sortable",
+    "list"
+  ],
+  "author": "Russ Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russcampbell/sortable-list/issues"
+  },
+  "homepage": "https://github.com/russcampbell/sortable-list#readme"
+}

@@ -1,7 +1,3 @@
-# SortableList Module
-# Developed by Russ Campbell
-# 12/18/2017
-
 class SortableList extends ScrollComponent
   constructor: (options={}) ->
     super _.defaults options,
